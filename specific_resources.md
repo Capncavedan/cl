@@ -6,6 +6,8 @@
 
 [Upcase screencasts](https://thoughtbot.com/upcase/)
 
+[Awesome Ruby](http://awesome-ruby.com)
+
 [Ruby Rogues podcast](https://overcast.fm/itunes1237406856/the-ruby-rogues)
 
 [My Ruby Story podcast](https://overcast.fm/itunes1237404328/my-ruby-story)
