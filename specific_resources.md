@@ -14,4 +14,4 @@
 
 [Thoughtbot blog](https://robots.thoughtbot.com)
 
-[The Thoughtbot playbook is worth a read and periodic re-read](https://thoughtbot.com/playbook)
+The [Thoughtbot playbook](https://thoughtbot.com/playbook) is worth a read (and periodic re-read)

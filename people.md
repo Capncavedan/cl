@@ -13,6 +13,7 @@ Avdi Grimm [@avdi](https://twitter.com/avdi)
 Patrick McKenzie [@patio11](https://twitter.com/patio11)
 
 <hr>
+
 <small>
-  _I didn't say thoughtleaders; who said thoughtleaders?_
+I didn't say thoughtleaders; who said thoughtleaders?
 </small>

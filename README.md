@@ -2,7 +2,7 @@
 
 ### Dan Buettner • @Capncavedan
 
-### github.com/capncavedan/cl
+### github.com/Capncavedan/cl
 
 [General resources](general_resources.md)
 
